@@ -1,0 +1,12 @@
+<svg width="1787" height="183" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_1_blur)" font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Signika'" font-size="236" id="svg_1" y="166.30961" x="0" stroke-width="0" stroke="#000" fill="#000000">Deepak kumawat</text>
+ </g>
+</svg>
